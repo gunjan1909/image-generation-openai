@@ -1,5 +1,7 @@
 ## IMAGE GENERATION USING OPENAI DALL-E MODELS API
 
+### OPENAI FREE CREDITS EXPIRED.
+
 #### Things to add
 
 - Loder while image generating..
